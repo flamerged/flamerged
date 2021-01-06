@@ -14,6 +14,6 @@ I can't wait to dig deeper into the MERN stack to build cool apps and websites.
 ## What I am learning
 
 - Refreshing my MERN skills with some online courses and building small projects
-- Interested in learning Vue, Svelte and React Native next
+- Interested in learning Vue, Svelte and Flutter next
 - I like Python too, so might go back to "automating the boring stuff"
 
