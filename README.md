@@ -7,13 +7,13 @@ I can't wait to dig deeper into the MERN stack to build cool apps and websites.
 
 ## Things I am working on right now
 
-- Going through my repos to polish up some projects before turning them public
-- Building a personal webite using React
-- Polishing my UI/UX skills using Figma
+- Building a small app for upcoming event using flutter
+- Working on Shillcoin with my flatmate
+- Polishing my UI/UX skills using Whimsical and  Figma
 
 ## What I am learning
 
-- Refreshing my MERN skills with some online courses and building small projects
-- Interested in learning Vue, Svelte and Flutter next
+- Improving my MERN skills with some online courses and building small projects
+- Vue, Svelte and Flutter
 - I like Python too, so might go back to "automating the boring stuff"
 
