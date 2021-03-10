@@ -17,3 +17,8 @@ I can't wait to dig deeper into the MERN stack to build cool apps and websites.
 - Vue, Svelte and Flutter
 - I like Python too, so might go back to "automating the boring stuff"
 
+## Some stats 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flamerged&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flamerged&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
