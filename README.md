@@ -13,8 +13,8 @@ I can't wait to dig deeper into the MERN stack to build cool apps and websites.
 
 ## What I am learning
 
-- Improving my MERN skills with some online courses and building small projects
-- Graphl as a nice addition to the MERN stack
+- Improving my MERN skills by building small projects and bringing them to production
+- Graphl and Typescriot as a nice addition to the MERN stack
 - I plan to add a bit to my frontend stack by learning vue and svelte in the future
 
 ## Some stats 
