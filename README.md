@@ -11,6 +11,7 @@ At work we use TypeScript, Vue, Nuxt, NestJS, Postgres, TypeORM, Bootstrap and G
 - 9-5 is spent at Reteach
 - I got two projects in the pipepline that I want to bring to production, have not yet decided which to focus on, though (codenames: burger and together)
 - Working on Shillcoin with my flatmate
+- Looking into Blockchain tech
 - Polishing my UI/UX skills using Whimsical and Figma
 
 ## What I am learning
